@@ -17,10 +17,6 @@ You can click the Preview link to take a look at your changes.
 ![R](https://img.shields.io/badge/R-Data%20Analysis-green?logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-yellow?logo=gnu-bash&logoColor=white)
 
-## Workflow Management
-![Snakemake](https://img.shields.io/badge/Snakemake-Workflow-red?logo=snakemake&logoColor=white)
-![Nextflow](https://img.shields.io/badge/Nextflow-Pipelines-orange?logo=nextflow&logoColor=white)
-
 ## Databases
 ![NCBI](https://img.shields.io/badge/NCBI-Genomics-purple?logo=ncbi&logoColor=white)
 ![Ensembl](https://img.shields.io/badge/Ensembl-Annotation-lightblue?logo=ensembl&logoColor=white)
