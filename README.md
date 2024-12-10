@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmanTahaNu
 - 👀 I’m interested in Genomics, Multi-omics.
-- 🌱 I’m currently Informatics master student.
+- 🌱 I’m currently Informatics master's student.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me E.Taha2204@nu.edu.eg
   
